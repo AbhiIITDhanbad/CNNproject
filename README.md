@@ -4,6 +4,8 @@ This project is a deep learning-based application that predicts the name of a Bo
 
 The application first detects and extracts faces from an input image using the **MTCNN** model and then uses the **VGG16** model to classify the cropped face against a dataset of Bollywood celebrities.
 
+## Project Demo: https://drive.google.com/file/d/1U9DjfMkFmEWIaLUt83x7FL59lkT5jEwQ/view?usp=sharing
+
 ## ✨ Features
 
 * **Face Detection:** Accurately detects and localizes faces in an image using the robust **MTCNN** (Multi-task Cascaded Convolutional Networks) model.
